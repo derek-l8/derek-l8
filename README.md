@@ -1,6 +1,6 @@
 # Derek Lai
 
-Electrical Engineering student at UCLA building systems across analog electronics, computer vision, and local-first software.
+Electrical Engineering student at UCLA working on analog electronics, computer vision, and local-first software. Most of these projects are active works in progress; each repository documents what currently works, what remains unverified, and where the project is headed.
 
 ## Projects
 
