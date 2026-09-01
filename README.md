@@ -4,6 +4,10 @@ Electrical Engineering student at UCLA working on analog electronics, computer v
 
 ## Projects
 
+### [**Configurable Analog Oscillator**](https://github.com/derek-l8/vision-configured-analog-oscillator) 
+
+A physical 5 V transistor astable oscillator with potentiometer-controlled frequency, two switched timing capacitors, an RC-filtered passive buzzer, and a button-controlled LED and audio fade. The repository includes the completed breadboard, LTspice model and measurements, and design history. The next phase will use computer vision to estimate the board orientation and control positions from photographs, then configure matching LTspice simulations.
+
 ### [Personal AI Health Coach](https://github.com/derek-l8/ai-health-coach)
 
 A Windows application that imports wearable health data, calculates explainable sleep and energy metrics, tracks personal trends and feedback, and provides AI-assisted coaching while keeping the underlying data and calculations inspectable.
