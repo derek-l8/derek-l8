@@ -10,11 +10,11 @@ A transistor-based oscillator with a RC-filtered output that drives a passive bu
 
 ### [Opportunity Discovery](https://github.com/derek-l8/opportunity-discovery)
 
-Collects public internship, research, program, and event listings into a searchable dashboard. Tracks changes and screens leads against a profile. A private workspace holds research and application drafts that a separate AI agent can use to investigate leads and prepare applications.
+Collects public internship, research, program, and event listings, tracks changes, and screens leads against a profile. A searchable dashboard supports reviewing leads and tracking applications. Users can use their own AI agent to investigate eligibility and prepare drafts from profile information and source documents in a private workspace.
 
 ### [Audio Transcriber](https://github.com/derek-l8/audio-transcriber)
 
-A Windows app for transcribing audio and video files and dictating text. Transcripts can be edited, searched, and exported, with playback, optional AI cleanup, and study-note summaries. Works offline after model download.
+A Windows app for transcribing audio and video files and dictating text. Offers optional AI cleanup for wording and punctuation, formatting as prose or structured notes, and shorter study-note summaries. Preserves the original transcript alongside cleaned and formatted versions, with playback, editing, search, and export. Works offline after model download.
 
 ### [AI Health Coach](https://github.com/derek-l8/ai-health-coach)
 
@@ -22,7 +22,7 @@ A health-coaching project for predicting daily readiness and energy from wearabl
 
 ### [Agent Sandbox Kit](https://github.com/derek-l8/agent-sandbox-kit)
 
-A Docker/WSL environment for coding agents to work on a selected repository without mounting unrelated host files. Supports Codex, OpenCode, and Claude Code, with read-only Git metadata and separate agent logins. 
+A Docker/WSL environment for coding agents to work on a selected repository without mounting unrelated host files. Supports Codex, OpenCode, and Claude Code, with read-only Git metadata and separate agent logins. Includes separate folders outside Git for read-only reference files and saved work.
 
 ## Interests
 
