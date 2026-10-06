@@ -1,31 +1,31 @@
 # Derek Lai
 
-Electrical Engineering student at UCLA working on analog electronics, computer vision, and local-first software. Most of these projects are active works in progress; each repository documents what currently works, what remains unverified, and where the project is headed.
+Electrical Engineering student at UCLA interested in electronics, machine learning, and developer tools.
 
 ## Projects
 
-### [**Configurable Analog Oscillator**](https://github.com/derek-l8/vision-configured-analog-oscillator) 
+### [Vision-Configured Analog Oscillator](https://github.com/derek-l8/vision-configured-analog-oscillator)
 
-A physical 5 V transistor astable oscillator with potentiometer-controlled frequency, two switched timing capacitors, an RC-filtered passive buzzer, and a button-controlled LED and audio fade. The repository includes the completed breadboard, LTspice model and measurements, and design history. The next phase will use computer vision to estimate the board orientation and control positions from photographs, then configure matching LTspice simulations.
-
-### [Personal AI Health Coach](https://github.com/derek-l8/ai-health-coach)
-
-A Windows application that imports wearable health data, calculates explainable sleep and energy metrics, tracks personal trends and feedback, and provides AI-assisted coaching while keeping the underlying data and calculations inspectable.
+A transistor-based oscillator with a RC-filtered output that drives a passive buzzer. A potentiometer and two timing switches adjust the pitch. Holding a button fades the buzzer and LED through a separate RC envelope. Includes an LTspice model and a PyTorch CNN trained to read the control positions from photos.
 
 ### [Opportunity Discovery](https://github.com/derek-l8/opportunity-discovery)
 
-A local discovery engine that collects public internship, research, program, and event listings, reconciles duplicates, detects changes, and generates compact review queues for later verification.
+Collects public internship, research, program, and event listings into a searchable dashboard. Tracks changes and screens leads against a profile. A private workspace holds research and application drafts that a separate AI agent can use to investigate leads and prepare applications.
 
-### [NPU Scribe](https://github.com/derek-l8/npu-scribe)
+### [Audio Transcriber](https://github.com/derek-l8/audio-transcriber)
 
-A private Windows lecture-transcription and dictation application that uses OpenVINO across available Intel NPU, GPU, and CPU devices, resumes interrupted transcription, and exports timestamped transcripts in multiple formats.
+A Windows app for transcribing audio and video files and dictating text. Transcripts can be edited, searched, and exported, with playback, optional AI cleanup, and study-note summaries. Works offline after model download.
+
+### [AI Health Coach](https://github.com/derek-l8/ai-health-coach)
+
+A health-coaching project for predicting daily readiness and energy from wearable measurements and daily check-ins. Includes data storage, sleep scoring, and an evaluation workflow designed to compare individualized predictions with historical baselines and Google Health Premium insights.
 
 ### [Agent Sandbox Kit](https://github.com/derek-l8/agent-sandbox-kit)
 
-A Docker and WSL environment for running coding agents against one selected Git working tree while isolating the rest of the host filesystem, credentials, and Docker socket.
+A Docker/WSL environment for coding agents to work on a selected repository without mounting unrelated host files. Supports Codex, OpenCode, and Claude Code, with read-only Git metadata and separate agent logins. 
 
 ## Interests
 
-Analog electronics · Computer vision · Local-first data systems · AI tooling and evaluation
+Analog electronics · Computer vision · Local AI · Developer tools · Product development
 
 [LinkedIn](https://www.linkedin.com/in/derek-lai8/)
