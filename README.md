@@ -1,12 +1,12 @@
 # Derek Lai
 
-Electrical Engineering student at UCLA interested in electronics, machine learning, and developer tools.
+Electrical Engineering student at UCLA interested in electronics, machine learning, and software development.
 
 ## Projects
 
 ### [Vision-Configured Analog Oscillator](https://github.com/derek-l8/vision-configured-analog-oscillator)
 
-A transistor-based oscillator with a RC-filtered output that drives a passive buzzer. A potentiometer and two timing switches adjust the pitch. Holding a button fades the buzzer and LED through a separate RC envelope. Includes an LTspice model and a PyTorch CNN trained to read the control positions from photos.
+A transistor-based oscillator with an RC-filtered output that drives a passive buzzer. A potentiometer and two timing switches adjust the pitch. Holding a button fades the buzzer and LED through a separate RC envelope. Includes an LTspice model and a PyTorch CNN trained to read the control positions from photos.
 
 ### [Opportunity Discovery](https://github.com/derek-l8/opportunity-discovery)
 
@@ -22,7 +22,7 @@ A health-coaching project for predicting daily readiness and energy from wearabl
 
 ### [Agent Sandbox Kit](https://github.com/derek-l8/agent-sandbox-kit)
 
-A Docker/WSL environment for coding agents to work on a selected repository without mounting unrelated host files. Supports Codex, OpenCode, and Claude Code, with read-only Git metadata and separate agent logins. Includes separate folders outside Git for read-only reference files and saved work.
+A kit for running coding agents in disposable Docker containers from WSL. Supports Codex, OpenCode, and Claude Code, with read-only Git metadata and separate agent logins. Includes folders outside the repository for read-only reference files and saved work.
 
 ## Interests
 
