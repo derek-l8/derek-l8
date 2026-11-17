@@ -1,3 +1,1 @@
-# Profile is moved to
-
-[@lai-derek](https://github.com/lai-derek).
+# Profile is moved to [@lai-derek](https://github.com/lai-derek)
